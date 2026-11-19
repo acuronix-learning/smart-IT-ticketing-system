@@ -1,0 +1,1807 @@
+{
+ "app_url": "https://www.acuronix.in",
+ "pages": [
+  {
+   "url": "https://www.acuronix.in/",
+   "title": "Acuronix — Project-First Industry Experience Platform",
+   "headings": [
+    "Project experience before employment.",
+    "Learning a Skill Is Not the Same as Proving It.",
+    "From Learning to Real-World Project Experience",
+    "Work on Projects. Not Just Lessons.",
+    "Don't Join a Course. Join a Role.",
+    "Don't Know Everything Yet? That's Okay.",
+    "Build an Experience Profile, Not Just a Resume.",
+    "Why Students Choose Acuronix"
+   ],
+   "elements": [
+    {
+     "key": "e1",
+     "name": "Projects",
+     "tag": "a",
+     "type": "",
+     "role": "link",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "link",
+      "name": "Projects"
+     },
+     "score": 90,
+     "alt": [],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e2",
+     "name": "Resume Builder",
+     "tag": "a",
+     "type": "",
+     "role": "link",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "link",
+      "name": "Resume Builder"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "Resume Builder"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e3",
+     "name": "Workshops",
+     "tag": "a",
+     "type": "",
+     "role": "link",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "link",
+      "name": "Workshops"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "Workshops"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e4",
+     "name": "How It Works",
+     "tag": "a",
+     "type": "",
+     "role": "link",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "link",
+      "name": "How It Works"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "How It Works"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e5",
+     "name": "Roles",
+     "tag": "a",
+     "type": "",
+     "role": "link",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "link",
+      "name": "Roles"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "Roles"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e6",
+     "name": "For Students",
+     "tag": "a",
+     "type": "",
+     "role": "link",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "link",
+      "name": "For Students"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "For Students"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e7",
+     "name": "About",
+     "tag": "a",
+     "type": "",
+     "role": "link",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "link",
+      "name": "About"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "About"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e8",
+     "name": "Hire project-ready talent",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Hire project-ready talent"
+     },
+     "score": 90,
+     "alt": [],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e9",
+     "name": "Login",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Login"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "Login"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e10",
+     "name": "Explore published projects",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Explore published projects"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "Explore published projects"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e11",
+     "name": "See the process",
+     "tag": "a",
+     "type": "",
+     "role": "link",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "link",
+      "name": "See the process"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "See the process"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e12",
+     "name": "Explore all projects",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Explore all projects"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "Explore all projects"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e13",
+     "name": "Explore Roles",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Explore Roles"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "Explore Roles"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e14",
+     "name": "Check Your Readiness",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Check Your Readiness"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "Check Your Readiness"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e15",
+     "name": "See Experience Profile",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "See Experience Profile"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "See Experience Profile"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e16",
+     "name": "Explore Projects",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Explore Projects"
+     },
+     "score": 90,
+     "alt": [],
+     "css": null,
+     "unique": false
+    },
+    {
+     "key": "e17",
+     "name": "Apply for a Project",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Apply for a Project"
+     },
+     "score": 90,
+     "alt": [],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e18",
+     "name": "Trust & Security",
+     "tag": "a",
+     "type": "",
+     "role": "link",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "link",
+      "name": "Trust & Security"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "Trust & Security"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e19",
+     "name": "Terms of Service",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Terms of Service"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "Terms of Service"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e20",
+     "name": "Privacy Policy",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Privacy Policy"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "Privacy Policy"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e21",
+     "name": "Enquire Now",
+     "tag": "button",
+     "type": "button",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Enquire Now"
+     },
+     "score": 90,
+     "alt": [],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e22",
+     "name": "View details",
+     "tag": "a",
+     "type": "",
+     "role": "link",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "link",
+      "name": "View details"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "View details"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.acuronix.in/resume-builder",
+   "title": "Acuronix — Project-First Industry Experience Platform",
+   "headings": [
+    "Resume Builder",
+    "Choose Template",
+    "Live Preview",
+    "Rahul Sharma",
+    "PROFESSIONAL SUMMARY",
+    "WORK EXPERIENCE",
+    "EDUCATION",
+    "SKILLS"
+   ],
+   "elements": [
+    {
+     "key": "e23",
+     "name": "Import",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Import"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "Import"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e24",
+     "name": "Download PDF",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Download PDF"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "Download PDF"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e25",
+     "name": "Professional Classic two-column",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Professional Classic two-column"
+     },
+     "score": 90,
+     "alt": [],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e26",
+     "name": "Modern Gradient timeline",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Modern Gradient timeline"
+     },
+     "score": 90,
+     "alt": [],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e27",
+     "name": "Minimal Clean serif style",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Minimal Clean serif style"
+     },
+     "score": 90,
+     "alt": [],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e28",
+     "name": "Executive Emerald sidebar",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Executive Emerald sidebar"
+     },
+     "score": 90,
+     "alt": [],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e29",
+     "name": "Classic Traditional borders",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Classic Traditional borders"
+     },
+     "score": 90,
+     "alt": [],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e30",
+     "name": "Creative Violet gradient",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Creative Violet gradient"
+     },
+     "score": 90,
+     "alt": [],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e31",
+     "name": "Corporate Navy & gold accent",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Corporate Navy & gold accent"
+     },
+     "score": 90,
+     "alt": [],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e32",
+     "name": "Elegant Rose centered",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Elegant Rose centered"
+     },
+     "score": 90,
+     "alt": [],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e33",
+     "name": "Bold Dark header orange",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Bold Dark header orange"
+     },
+     "score": 90,
+     "alt": [],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e34",
+     "name": "Compact Dense 3-column",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Compact Dense 3-column"
+     },
+     "score": 90,
+     "alt": [],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e35",
+     "name": "Academic Education-first",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Academic Education-first"
+     },
+     "score": 90,
+     "alt": [],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e36",
+     "name": "Tech Terminal dark mode",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Tech Terminal dark mode"
+     },
+     "score": 90,
+     "alt": [],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e37",
+     "name": "Clean Sky blue minimal",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Clean Sky blue minimal"
+     },
+     "score": 90,
+     "alt": [],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e38",
+     "name": "Prestige Charcoal sidebar",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Prestige Charcoal sidebar"
+     },
+     "score": 90,
+     "alt": [],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e39",
+     "name": "Improve Resume with AI",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Improve Resume with AI"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "Improve Resume with AI"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e40",
+     "name": "Check ATS Score",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Check ATS Score"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "Check ATS Score"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e41",
+     "name": "Personal",
+     "tag": "button",
+     "type": "button",
+     "role": "tab",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "tab",
+      "name": "Personal"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "id",
+       "loc": {
+        "id": "radix-:r0:-trigger-personal"
+       }
+      },
+      {
+       "by": "text",
+       "loc": {
+        "text": "Personal"
+       }
+      }
+     ],
+     "css": "#radix-:r0:-trigger-personal",
+     "unique": true
+    },
+    {
+     "key": "e42",
+     "name": "Skills",
+     "tag": "button",
+     "type": "button",
+     "role": "tab",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "tab",
+      "name": "Skills"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "id",
+       "loc": {
+        "id": "radix-:r0:-trigger-skills"
+       }
+      }
+     ],
+     "css": "#radix-:r0:-trigger-skills",
+     "unique": true
+    },
+    {
+     "key": "e43",
+     "name": "Experience",
+     "tag": "button",
+     "type": "button",
+     "role": "tab",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "tab",
+      "name": "Experience"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "id",
+       "loc": {
+        "id": "radix-:r0:-trigger-experience"
+       }
+      },
+      {
+       "by": "text",
+       "loc": {
+        "text": "Experience"
+       }
+      }
+     ],
+     "css": "#radix-:r0:-trigger-experience",
+     "unique": true
+    },
+    {
+     "key": "e44",
+     "name": "Education",
+     "tag": "button",
+     "type": "button",
+     "role": "tab",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "tab",
+      "name": "Education"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "id",
+       "loc": {
+        "id": "radix-:r0:-trigger-education"
+       }
+      }
+     ],
+     "css": "#radix-:r0:-trigger-education",
+     "unique": true
+    },
+    {
+     "key": "e45",
+     "name": "Full Name",
+     "tag": "input",
+     "type": "",
+     "role": "textbox",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "textbox",
+      "name": "Full Name"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "label",
+       "loc": {
+        "label": "Full Name"
+       }
+      },
+      {
+       "by": "placeholder",
+       "loc": {
+        "placeholder": "John Doe"
+       }
+      }
+     ],
+     "css": "#fullName",
+     "unique": true
+    },
+    {
+     "key": "e46",
+     "name": "Email",
+     "tag": "input",
+     "type": "email",
+     "role": "textbox",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "textbox",
+      "name": "Email"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "label",
+       "loc": {
+        "label": "Email"
+       }
+      },
+      {
+       "by": "placeholder",
+       "loc": {
+        "placeholder": "john@email.com"
+       }
+      }
+     ],
+     "css": "#email",
+     "unique": true
+    },
+    {
+     "key": "e47",
+     "name": "Phone",
+     "tag": "input",
+     "type": "",
+     "role": "textbox",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "textbox",
+      "name": "Phone"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "label",
+       "loc": {
+        "label": "Phone"
+       }
+      },
+      {
+       "by": "placeholder",
+       "loc": {
+        "placeholder": "+91 98765 43210"
+       }
+      }
+     ],
+     "css": "#phone",
+     "unique": true
+    },
+    {
+     "key": "e48",
+     "name": "Location",
+     "tag": "input",
+     "type": "",
+     "role": "textbox",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "textbox",
+      "name": "Location"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "label",
+       "loc": {
+        "label": "Location"
+       }
+      },
+      {
+       "by": "placeholder",
+       "loc": {
+        "placeholder": "City, Country"
+       }
+      }
+     ],
+     "css": "#location",
+     "unique": true
+    },
+    {
+     "key": "e49",
+     "name": "LinkedIn",
+     "tag": "input",
+     "type": "",
+     "role": "textbox",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "textbox",
+      "name": "LinkedIn"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "label",
+       "loc": {
+        "label": "LinkedIn"
+       }
+      },
+      {
+       "by": "placeholder",
+       "loc": {
+        "placeholder": "linkedin.com/in/username"
+       }
+      }
+     ],
+     "css": "#linkedin",
+     "unique": true
+    },
+    {
+     "key": "e50",
+     "name": "Portfolio",
+     "tag": "input",
+     "type": "",
+     "role": "textbox",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "textbox",
+      "name": "Portfolio"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "label",
+       "loc": {
+        "label": "Portfolio"
+       }
+      },
+      {
+       "by": "placeholder",
+       "loc": {
+        "placeholder": "yourwebsite.com"
+       }
+      }
+     ],
+     "css": "#portfolio",
+     "unique": true
+    },
+    {
+     "key": "e51",
+     "name": "Professional Summary",
+     "tag": "textarea",
+     "type": "",
+     "role": "textbox",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "textbox",
+      "name": "Professional Summary"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "label",
+       "loc": {
+        "label": "Professional Summary"
+       }
+      },
+      {
+       "by": "placeholder",
+       "loc": {
+        "placeholder": "Brief professional summary..."
+       }
+      }
+     ],
+     "css": "#summary",
+     "unique": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.acuronix.in/workshop",
+   "title": "Workshops | Acuronix",
+   "headings": [
+    "FROM CAMPUS TO CORPORATE: Are You Ready for the current Job Market?",
+    "WHAT WE’LL COVER",
+    "Reserve your free seat"
+   ],
+   "elements": [
+    {
+     "key": "e52",
+     "name": "Projects",
+     "tag": "a",
+     "type": "",
+     "role": "link",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "link",
+      "name": "Projects"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "Projects"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e53",
+     "name": "Resume Builder",
+     "tag": "a",
+     "type": "",
+     "role": "link",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "link",
+      "name": "Resume Builder"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "Resume Builder"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e54",
+     "name": "Workshops",
+     "tag": "a",
+     "type": "",
+     "role": "link",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "link",
+      "name": "Workshops"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "Workshops"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e55",
+     "name": "How It Works",
+     "tag": "a",
+     "type": "",
+     "role": "link",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "link",
+      "name": "How It Works"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "How It Works"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e56",
+     "name": "Roles",
+     "tag": "a",
+     "type": "",
+     "role": "link",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "link",
+      "name": "Roles"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "Roles"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e57",
+     "name": "For Students",
+     "tag": "a",
+     "type": "",
+     "role": "link",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "link",
+      "name": "For Students"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "For Students"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e58",
+     "name": "About",
+     "tag": "a",
+     "type": "",
+     "role": "link",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "link",
+      "name": "About"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "About"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e59",
+     "name": "Hire project-ready talent",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Hire project-ready talent"
+     },
+     "score": 90,
+     "alt": [],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e60",
+     "name": "Login",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Login"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "Login"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e61",
+     "name": "Full name *",
+     "tag": "input",
+     "type": "",
+     "role": "textbox",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "textbox",
+      "name": "Full name *"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "label",
+       "loc": {
+        "label": "Full name *"
+       }
+      },
+      {
+       "by": "id",
+       "loc": {
+        "id": "w-name"
+       }
+      }
+     ],
+     "css": "#w-name",
+     "unique": true
+    },
+    {
+     "key": "e62",
+     "name": "Email *",
+     "tag": "input",
+     "type": "email",
+     "role": "textbox",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "textbox",
+      "name": "Email *"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "label",
+       "loc": {
+        "label": "Email *"
+       }
+      },
+      {
+       "by": "id",
+       "loc": {
+        "id": "w-email"
+       }
+      }
+     ],
+     "css": "#w-email",
+     "unique": true
+    },
+    {
+     "key": "e63",
+     "name": "Mobile number *",
+     "tag": "input",
+     "type": "tel",
+     "role": "textbox",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "textbox",
+      "name": "Mobile number *"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "label",
+       "loc": {
+        "label": "Mobile number *"
+       }
+      },
+      {
+       "by": "placeholder",
+       "loc": {
+        "placeholder": "+91 98765 43210"
+       }
+      }
+     ],
+     "css": "#w-phone",
+     "unique": true
+    },
+    {
+     "key": "e64",
+     "name": "Experience level *",
+     "tag": "button",
+     "type": "button",
+     "role": "combobox",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "combobox",
+      "name": "Experience level *"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "label",
+       "loc": {
+        "label": "Experience level *"
+       }
+      },
+      {
+       "by": "id",
+       "loc": {
+        "id": "w-experience"
+       }
+      }
+     ],
+     "css": "#w-experience",
+     "unique": true
+    },
+    {
+     "key": "e65",
+     "name": "Register for free",
+     "tag": "button",
+     "type": "submit",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Register for free"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "Register for free"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e66",
+     "name": "Trust & Security",
+     "tag": "a",
+     "type": "",
+     "role": "link",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "link",
+      "name": "Trust & Security"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "Trust & Security"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e67",
+     "name": "Terms of Service",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Terms of Service"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "Terms of Service"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    },
+    {
+     "key": "e68",
+     "name": "Privacy Policy",
+     "tag": "button",
+     "type": "",
+     "role": "button",
+     "frame": "",
+     "by": "role",
+     "loc": {
+      "role": "button",
+      "name": "Privacy Policy"
+     },
+     "score": 90,
+     "alt": [
+      {
+       "by": "text",
+       "loc": {
+        "text": "Privacy Policy"
+       }
+      }
+     ],
+     "css": null,
+     "unique": true
+    }
+   ]
+  }
+ ],
+ "flow": [
+  {
+   "case": "TC_001",
+   "steps": [
+    {
+     "text": "Open a supported browser.",
+     "status": "bound",
+     "actions": [
+      {
+       "action": "note",
+       "value": null,
+       "url": null,
+       "element": null
+      }
+     ],
+     "error": "",
+     "page": "www.acuronix.in/"
+    },
+    {
+     "text": "Enter https://www.acuronix.in/ in the address bar.",
+     "status": "unresolved",
+     "actions": [],
+     "error": "Could not find an input field matching: https www acuronix address bar",
+     "page": "www.acuronix.in/"
+    },
+    {
+     "text": "Press Enter.",
+     "status": "skipped",
+     "actions": [],
+     "error": "",
+     "page": ""
+    }
+   ],
+   "title": "Verify Acuronix home page opens successfully",
+   "expected": "Acuronix home page should load successfully without any page-load error."
+  },
+  {
+   "case": "TC_002",
+   "steps": [
+    {
+     "text": "Open the Acuronix home page.",
+     "status": "bound",
+     "actions": [
+      {
+       "action": "note",
+       "value": null,
+       "url": null,
+       "element": null
+      }
+     ],
+     "error": "",
+     "page": "www.acuronix.in/"
+    },
+    {
+     "text": "Observe the top navigation menu.",
+     "status": "bound",
+     "actions": [
+      {
+       "action": "assert",
+       "value": [],
+       "url": null,
+       "element": null
+      }
+     ],
+     "error": "",
+     "page": "www.acuronix.in/"
+    }
+   ],
+   "title": "Verify Resume Builder option is displayed on home page",
+   "expected": "Resume Builder option should be visible in the top navigation menu."
+  },
+  {
+   "case": "TC_003",
+   "steps": [
+    {
+     "text": "Open the Acuronix home page.",
+     "status": "bound",
+     "actions": [
+      {
+       "action": "note",
+       "value": null,
+       "url": null,
+       "element": null
+      }
+     ],
+     "error": "",
+     "page": "www.acuronix.in/"
+    },
+    {
+     "text": "Click Resume Builder from the top navigation.",
+     "status": "bound",
+     "actions": [
+      {
+       "action": "click",
+       "value": null,
+       "url": null,
+       "element": "e2"
+      }
+     ],
+     "error": "",
+     "page": "www.acuronix.in/"
+    }
+   ],
+   "title": "Verify navigation to Resume Builder page",
+   "expected": "User should be navigated to the Resume Builder page and the page should load successfully."
+  },
+  {
+   "case": "TC_004",
+   "steps": [
+    {
+     "text": "Click on Resume Builder.",
+     "status": "bound",
+     "actions": [
+      {
+       "action": "click",
+       "value": null,
+       "url": null,
+       "element": "e2"
+      }
+     ],
+     "error": "",
+     "page": "www.acuronix.in/"
+    },
+    {
+     "text": "Click Import button at the top of the page.",
+     "status": "bound",
+     "actions": [
+      {
+       "action": "click",
+       "value": null,
+       "url": null,
+       "element": "e23"
+      }
+     ],
+     "error": "",
+     "page": "www.acuronix.in/resume-builder"
+    }
+   ],
+   "title": "Verify Resume Builder page UI is loaded",
+   "expected": "Resume Builder page should display the Resume Builder heading, templates, Import button, Download PDF button, Live Preview, ATS section and resume detail sections without broken UI."
+  },
+  {
+   "case": "TC_005",
+   "steps": [
+    {
+     "text": "1.Click on workshop",
+     "status": "bound",
+     "actions": [
+      {
+       "action": "click",
+       "value": null,
+       "url": null,
+       "element": "e3"
+      }
+     ],
+     "error": "",
+     "page": "www.acuronix.in/"
+    }
+   ],
+   "title": "Verify user can register successfully for a free workshop",
+   "expected": "workshop page should display the FROM CAMPUS TO CORPORATE: Are You Ready for the current Job Market?"
+  },
+  {
+   "case": "TC_006",
+   "steps": [
+    {
+     "text": "1.Click on workshop\n2.Enter full name in field \"Full Name\" as jayakrishna",
+     "status": "unresolved",
+     "actions": [],
+     "error": "Could not find a button/link matching: Full Name",
+     "page": "www.acuronix.in/"
+    },
+    {
+     "text": "wait 60 seceonds",
+     "status": "skipped",
+     "actions": [],
+     "error": "",
+     "page": ""
+    }
+   ],
+   "title": "Verify registration",
+   "expected": "Jayakrishna should entered"
+  }
+ ],
+ "_names": {
+  "e2": "resume_builder_link",
+  "e23": "import_button",
+  "e3": "workshops_link"
+ }
+}
