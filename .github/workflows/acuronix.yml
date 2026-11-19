@@ -1,0 +1,36 @@
+name: Acuronix tests
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: "npm install"
+      - run: "npx playwright install --with-deps chromium"
+      - name: Run tests
+        id: tests
+        run: "npx playwright test"
+        continue-on-error: true
+      - name: Report results to Acuronix
+        if: always()
+        env:
+          ACURONIX_URL: ${{ secrets.ACURONIX_URL }}
+          ACURONIX_TOKEN: ${{ secrets.ACURONIX_TOKEN }}
+        run: |
+          if [ -f results/results.xml ]; then curl -sS --fail-with-body -X POST "$ACURONIX_URL/api/ingest" -H "X-Acuronix-Token: $ACURONIX_TOKEN" -F "file=@results/results.xml" -F "commit=${{ github.sha }}" -F "branch=${{ github.ref_name }}" -F "ci=github" -F "run_url=${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"; else echo "No results file to report"; fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: test-results
+          path: |
+            results
+            test-results
+      - name: Fail the job if tests failed
+        if: steps.tests.outcome == 'failure'
+        run: exit 1
